@@ -1,0 +1,4 @@
+dataset,BERTopic_time (in s),cuBERTopic_time (in s)
+news_dataset,37.59,27.11
+CUAD_dataset,15.86,12.34
+Amazon_dataset,1823.34,67.77
