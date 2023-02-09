@@ -16,3 +16,4 @@ Contains benchmarks for BERTopic with RAPIDS compared to CPU.
 
 * [Getting Started](https://maartengr.github.io/BERTopic/getting_started/quickstart/quickstart.html)
 * [Can I use GPU to speed up the model?](https://maartengr.github.io/BERTopic/faq.html)
+
